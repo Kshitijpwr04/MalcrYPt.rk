@@ -22,11 +22,11 @@
 ## Usage ( Windows )
   
 	
-#### [+] Download the latest Metasploit Windows installer from: https://github.com/rapid7/metasploit-framework/wiki/Downloads-by-Version.
-#### [+] *** Disable Firewall! ***
+##### [+] Download the latest Metasploit Windows installer from: https://github.com/rapid7/metasploit-framework/wiki/Downloads-by-Version.
+##### [+] *** Disable Firewall! ***
   This product is not compatible with common firewall applications. Although it is possible to use Metasploit with a firewall in place, a firewall will interfere         with the function of certain exploits and payloads. Please ensure that your firewall is disabled prior to using this product for a penetration test.
-#### [+] Paste the files ( malcrypt.py & whoami.exe ) into metasploit folder ( C:\metasploit\ )
-#### [+] change the directory to where METASLPOIT has been installed
+##### [+] Paste the files ( malcrypt.py & whoami.exe ) into metasploit folder ( C:\metasploit\ )
+##### [+] change the directory to where METASLPOIT has been installed
 
 	cd ..
 	cd ..
@@ -35,7 +35,7 @@
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  ## Updates Next verison (v1.2) 
    
-#### [+] Following options to be added
+##### [+] Following options to be added
   
 3. Remove BAD CHARACTERS
 4. Change file EXTENSIONS ( keep the properties )
