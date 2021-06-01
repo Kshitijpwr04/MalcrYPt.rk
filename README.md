@@ -29,7 +29,7 @@
 #### [+] change the directory to where METASLPOIT has been installed
 
 	cd ..
-	cd..
+	cd ..
 	cd metasploit
 	python malcrypt.py
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
