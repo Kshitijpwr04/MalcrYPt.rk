@@ -39,5 +39,4 @@
   
 3. Remove BAD CHARACTERS
 4. Change file EXTENSIONS ( keep the properties )
-  
-   
+5. Encrypt CRYPTO ( Private key, Documents )  
